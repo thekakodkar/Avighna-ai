@@ -1,5 +1,5 @@
 
-# Avighna AI: The Infor ERP LN Sidecar 🚀
+# Avighna AI: The ERP Sidecar 🚀
 
 **Avighna AI** is an enterprise-grade AI orchestration layer designed to bridge the gap between unstructured industrial data and the structured world of **Infor ERP LN**. 
 

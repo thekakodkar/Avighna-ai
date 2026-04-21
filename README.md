@@ -3,7 +3,7 @@
 
 **Avighna AI** is an enterprise-grade AI orchestration layer designed to bridge the gap between unstructured industrial data and the structured world of **Infor ERP LN**. 
 
-As a "Privacy Sidecar," it sits alongside your ERP, processing sensitive vendor communications, machine manuals, and shop-floor data locally—ensuring that proprietary manufacturing intelligence never leaves the factory floor while maximizing ROI through autonomous agentic workflows.
+As a "Privacy Sidecar," it sits alongside your ERP, processing sensitive vendor communications, machine manuals, and shop-floor data locally ensuring that proprietary manufacturing intelligence never leaves the factory floor while maximizing ROI through autonomous agentic workflows.
 
 ---
 

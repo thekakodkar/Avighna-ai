@@ -1,0 +1,14 @@
+# Core Orchestration
+langgraph>=0.2.35
+langchain-core>=0.3.0,<0.4.0
+
+# Validation & Safety
+pydantic-ai>=1.8.0
+pydantic>=2.10.0
+
+# Infrastructure
+fastapi>=0.115.0
+qdrant-client>=1.12.0
+ollama>=0.4.4
+httpx>=0.27.0
+python-dotenv>=1.0.1
